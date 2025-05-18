@@ -4,6 +4,8 @@
 This project is a Power BI dashboard that visualizes key metadata about cosmetics products, including prices, ratings, and customer reviews across different regions. The dashboard provides interactive visualizations to uncover insights about product popularity, regional preferences, and customer satisfaction.
 
 ---
+## Dashboard
+![Screenshot 2025-05-18 184439](https://github.com/user-attachments/assets/ad9e7a47-ebd5-4fce-8522-a1c725da4472)
 
 ## 🛠 Features
 - **KPIs**:
