@@ -1,11 +1,19 @@
 # Cosmetics Metadata Dashboard
+# Table Of Content
+ - [Project Overview](https://github.com/Queen-Rukky/Beauty-Cosmetics-Analysis/edit/main/README.md#-project-overview)
+ - [Dashboard](https://github.com/Queen-Rukky/Beauty-Cosmetics-Analysis/edit/main/README.md#dashboard)
+ - [Features](https://github.com/Queen-Rukky/Beauty-Cosmetics-Analysis/edit/main/README.md#-features)
+ - [Files](https://github.com/Queen-Rukky/Beauty-Cosmetics-Analysis/edit/main/README.md#-files)
+ - [How to run](https://github.com/Queen-Rukky/Beauty-Cosmetics-Analysis/edit/main/README.md#-how-to-run)
+ - [Insights](https://github.com/Queen-Rukky/Beauty-Cosmetics-Analysis/edit/main/README.md#-insights-you-can-get)
+ - [Future Improvement](https://github.com/Queen-Rukky/Beauty-Cosmetics-Analysis/edit/main/README.md#-future-improvements)
 
 ## 📊 Project Overview
 This project is a Power BI dashboard that visualizes key metadata about cosmetics products, including prices, ratings, and customer reviews across different regions. The dashboard provides interactive visualizations to uncover insights about product popularity, regional preferences, and customer satisfaction.
 
 ---
 ## Dashboard
-![Screenshot 2025-05-18 184439](https://github.com/user-attachments/assets/ad9e7a47-ebd5-4fce-8522-a1c725da4472)
+![Image](https://github.com/user-attachments/assets/ad9e7a47-ebd5-4fce-8522-a1c725da4472)
 
 ## 🛠 Features
 - **KPIs**:
@@ -27,7 +35,7 @@ This project is a Power BI dashboard that visualizes key metadata about cosmetic
 
 ## 📁 Files
 - `dashboard.pbix`: Power BI file containing all reports and visualizations.
-- `Screenshot.png`: Preview image of the dashboard.
+- [Dasboard Image](https://github.com/user-attachments/assets/ad9e7a47-ebd5-4fce-8522-a1c725da4472): Preview image of the dashboard.
 
 ---
 
